@@ -1,0 +1,13 @@
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2ShoppingList.exe
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2ShoppingList.deps.json
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2ShoppingList.runtimeconfig.json
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2ShoppingList.runtimeconfig.dev.json
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2ShoppingList.dll
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\bin\Debug\netcoreapp3.1\Lab3.2ShoppingList.pdb
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.csprojAssemblyReference.cache
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.AssemblyInfoInputs.cache
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.AssemblyInfo.cs
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.csproj.CoreCompileInputs.cache
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.dll
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.pdb
+C:\Users\knedbal\dev\Week3\Lab3.2ShoppingList\obj\Debug\netcoreapp3.1\Lab3.2ShoppingList.genruntimeconfig.cache
